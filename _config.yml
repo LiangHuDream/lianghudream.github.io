@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jack Guo"
   avatar : "/assets/images/test.jpg"
-  bio    : "TEIB|1%, everyday.|有自己的价值才是正道"
+  bio    : "TEIB|聚焦, 1%, everyday.|有自己的价值才是正道"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
